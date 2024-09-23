@@ -8,6 +8,12 @@ A Flask app is a web application built using Flask, a lightweight web framework 
 
 Before you begin, ensure you have the following installed on your Linux system:
 
+* Update your package list and install curl and git
+
+```bash
+sudo apt update
+sudo apt install curl git -y
+```
 
 ## How to Set Up and Run the Flask Application
 
